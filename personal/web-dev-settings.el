@@ -5,3 +5,5 @@
 (setq-default web-mode-css-indent-offset 2)
 ;;(setq-default web-mode-code-indent-offset tab-width)
 ;;(setq-default web-mode-sql-indent-offset tab-width)
+
+(setq jsx-indent-level 2)
