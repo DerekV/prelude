@@ -16,3 +16,7 @@
 (setq-default prelude-modules-file (expand-file-name "my-prelude-modules.el" prelude-dir))
 
 ;;(setq whitespace-style (quote (spaces tabs newline)))
+
+
+;;Enable caching in projectile
+(setq projectile-enable-caching t)
